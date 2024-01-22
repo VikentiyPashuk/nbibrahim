@@ -23,7 +23,7 @@ That's why I'm focused on developing practical tools and platforms that truly ma
 ### A little bit about me:
 
 - 👨‍🎓 I'm a **B.Sc. Physics (Honors) Student** at Memorial University of Newfoundland
-- 🔭 I’m currently working on [Unik AI](https://www.unikai.ca/), an AI advising platform with conversational agents
+- 🔭 I’m currently working on [Unik AI](https://www.unikai.ca/), an on-demand AI academic advising platform for educational institutes, to reform the ways students receive support!
 - 💬 Ask me about anything related to **Machine Learning, Data Analysis, or Cloud Development**
 - 📝 I regularly contribute to [The Nurul Network](https://github.com/nbibrahim/The-Nurul-Network), where I explore turbulent system behaviors prediction using deep-learning models
 - 🌱 I'm always learning and currently improving my skills in **Cloud Computing** and **Advanced Machine Learning Algorithms**
