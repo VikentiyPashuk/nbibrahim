@@ -11,7 +11,7 @@
 
 ## It's awesome that you found me here! 
 
-I am a full-stack Data Scientist/Developer & Physicist with a passion for Machine Learning, Data Analysis, and Cloud Development. I'm dedicated to crafting scalable, data-driven solutions that drive actionable insights and innovation.
+I am a full-stack Data Scientist/Developer & Computational Physicist with a passion for Physics Simulation, Machine Learning, Data Analysis, and Cloud Development. I'm dedicated to crafting scalable, data-driven solutions that drive actionable insights and innovation.
 
 As a professional and an academic, I pride myself on my attention to detail and my full commitment to making a positive impact in science through technology.
 
@@ -24,9 +24,9 @@ That's why I'm focused on developing practical tools and platforms that truly ma
 
 - 👨‍🎓 I'm a **B.Sc. Physics (Honors) Student** at Memorial University of Newfoundland
 - 🔭 I’m currently working on [Unik AI](https://www.unikai.ca/), an on-demand AI academic advising platform for educational institutes, to reform the ways students receive support!
-- 💬 Ask me about anything related to **Machine Learning, Data Analysis, or Cloud Development**
-- 📝 I regularly contribute to [The Nurul Network](https://github.com/nbibrahim/The-Nurul-Network), where I explore turbulent system behaviors prediction using deep-learning models
-- 🌱 I'm always learning and currently improving my skills in **Cloud Computing** and **Advanced Machine Learning Algorithms**
+- 💬 Ask me about anything related to **Physics Simulation, Machine Learning, Data Analysis, or Cloud Development**
+- 📝 I regularly contribute to [The Nurul Network](https://github.com/nbibrahim/The-Nurul-Network), where I explore turbulent system behavior prediction using deep-learning models
+- 🌱 I'm always learning and currently improving my skills in **Physics Simulation**,**Cloud Computing** and **Machine Learning Algorithms**
 - 📬 How to reach me: [bibrahim@mun.ca](mailto:bibrahim@mun.ca)
 - 📄 Here's my [Resume](https://github.com/nbibrahim/Resume/blob/main/Nurul-Resume.pdf).
 - 💪 Most importantly, this is where I write code and solve complex problems:
