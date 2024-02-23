@@ -9,13 +9,13 @@
 <a href="https://twitter.com/nurulb000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
 
-## It's awesome that you found me here! 
+## I'm super excited to have you here! 
 
 I am a full-stack Data Scientist/Developer & Computational Physicist with a passion for Physics Simulation, Machine Learning, Data Analysis, and Cloud Development. I'm dedicated to crafting scalable, data-driven solutions that drive actionable insights and innovation.
 
-As a professional and an academic, I pride myself on my attention to detail and my full commitment to making a positive impact in science through technology.
+As a professional and an academic, I pride myself on my attention to detail and my total commitment to making a positive impact in science through technology.
 
-That's why I'm focused on developing practical tools and platforms that truly make a difference.
+That's why I'm focused on developing practical tools and platforms that make a genuine difference.
 
 <img align="right" alt="GIF" src="https://github.com/nbibrahim/nbibrahim/blob/master/coding.gif?raw=true" width="408" height="318" />
 
