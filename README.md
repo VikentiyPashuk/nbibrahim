@@ -29,10 +29,7 @@ That's why I'm focused on developing practical tools and platforms that make a g
 - 🌱 I'm always learning and currently improving my skills in **Physics Simulation**,**Cloud Computing** and **Machine Learning Algorithms**
 - 📬 How to reach me: [bibrahim@mun.ca](mailto:bibrahim@mun.ca)
 - 📄 Here's my [Resume](https://github.com/nbibrahim/Resume/blob/main/Nurul-Resume.pdf).
-- 💪 Most importantly, this is where I upload my open-source projects which solve complex problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/nbibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nbibrahim" height="30" width="40" /></a>
+- 💪 Most importantly, this is where I upload my open-source projects that solve complex problems:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nbibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nbibrahim" height="30" width="40" /></a>
 &nbsp;
 
 ---
