@@ -11,7 +11,7 @@
 
 ## I'm super excited to have you here! 
 
-I am a full-stack Data Scientist/Developer & Computational Physicist with a passion for Physics Simulation, Machine Learning, Data Analysis, and Cloud Development. I'm dedicated to crafting scalable, data-driven solutions that drive actionable insights and innovation.
+I am a full-stack Developer/Data Scientist & a Computational Physicist with a passion for Machine Learning, Physics Simulation, Data Analysis, and Cloud Development. I'm dedicated to crafting scalable, data-driven solutions that drive actionable insights and innovation in science.
 
 As a professional and an academic, I pride myself on my attention to detail and my total commitment to making a positive impact in science through technology.
 
