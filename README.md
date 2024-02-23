@@ -96,10 +96,10 @@ That's why I'm focused on developing practical tools and platforms that make a g
 
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs 20 mins   ██████████████░░░░░░░░░░░   55.00 % 
-C++        3 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   26.25 % 
-SQL       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-R            40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-MATLAB          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python       14 hrs 40 mins  ██████████████░░░░░░░░░░░   55.00 % 
+C++          7 hrs           ██████▒░░░░░░░░░░░░░░░░░░   26.25 % 
+SQL          3 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+R            1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+MATLAB       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
